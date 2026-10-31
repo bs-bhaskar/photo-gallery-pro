@@ -4,7 +4,7 @@ A modern, responsive Photo Gallery application built using React.js, Vite, and T
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** [Add Your Deployed Website URL Here]
+🔗 **Live Website:** [Live Website URL](https://photo-gallery-pro-rho.vercel.app/)
 
 ## 📷 Screenshots
 
@@ -48,7 +48,7 @@ A modern, responsive Photo Gallery application built using React.js, Vite, and T
 ## 📂 Project Structure
 
 ```text
-photo-gallery/
+photo-gallery-pro/
 ├── public/
 ├── src/
 │   ├── components/
@@ -76,7 +76,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/bs-bhaskar/photo-gallery.git
+git clone https://github.com/bs-bhaskar/photo-gallery-pro.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -175,8 +175,8 @@ Potential improvements include:
 
 **Bhaskar Yogi**
 
-- GitHub: https://github.com/bs-bhaskar
-- Portfolio: [Add Your Portfolio URL]
+- GitHub: [GitHub Profile](https://github.com/bs-bhaskar)
+- Portfolio: [My Portfolio URL](https://react-tailwind-personal-portfolio-rho.vercel.app/)
 
 ## 📄 License
 
